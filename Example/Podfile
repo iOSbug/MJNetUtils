@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MJNetUtils_Tests' do
+  pod 'MJNetUtils', :path => '../'
+  
+  
+end
