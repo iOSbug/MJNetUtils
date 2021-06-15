@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MJNetUtils
 
 [![CI Status](https://img.shields.io/travis/519955268@qq.com/MJNetUtils.svg?style=flat)](https://travis-ci.org/519955268@qq.com/MJNetUtils)
@@ -27,3 +28,5 @@ pod 'MJNetUtils'
 ## License
 
 MJNetUtils is available under the MIT license. See the LICENSE file for more info.
+
+# MJNetUtils
