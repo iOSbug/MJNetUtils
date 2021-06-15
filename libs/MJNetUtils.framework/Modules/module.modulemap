@@ -1,0 +1,6 @@
+framework module MJNetUtils {
+  umbrella header "MJNetUtils.h"
+
+  export *
+  module * { export * }
+}
